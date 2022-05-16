@@ -1,0 +1,15 @@
+.App {
+  width: 80%;
+}
+
+@media only screen and (max-width: 600px) {
+  .App {
+    width: 100%;
+  }
+}
+
+#layout{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
